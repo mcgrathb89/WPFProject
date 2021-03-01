@@ -1,0 +1,81 @@
+﻿<UserControl x:Class="WPFApp1.Booking"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800" >
+    <UserControl.Resources>
+        <Style x:Key="PurpleStyle" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border"  
+        BorderThickness="{TemplateBinding BorderThickness}"  
+        Padding="4,2"  
+        CornerRadius="5"  
+        BorderBrush="{TemplateBinding BorderBrush}" 
+        Background="{TemplateBinding Background}">
+                            <Grid >
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Name="content"/>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderBrush" Value="White"/>
+                                <Setter Property="BorderThickness" Value="4"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="Black"/>
+                                <Setter Property="BorderBrush" Value="White"/>
+                                <Setter Property="BorderThickness" Value="10" />
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="{DynamicResource BlueGradient4}"/>
+                                <Setter Property="BorderBrush" Value="{DynamicResource BlueGradient1}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="SnapsToDevicePixels" Value="true"/>
+            <Setter Property="Background" Value="{DynamicResource BlueGradient1}"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource BlueGradient2}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="TextBox.TextAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Trebuchet MS"/>
+            <Setter Property="FontSize" Value="15pt"/>
+            <Setter Property="Effect" Value="{DynamicResource KioskStandardDropShadow}" />
+            <Setter Property="IsEnabled" Value="True"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF343434" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="Silver" Offset="0.687"/>
+                <GradientStop Color="Silver" Offset="0.84"/>
+                <GradientStop Color="Silver" Offset="0.933"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="BackButton" Content="Back" HorizontalAlignment="Left" Margin="556,501,0,0" VerticalAlignment="Top" Width="200" Height="40"  FontFamily="Stencil Std" FontSize="20" Click="backButton_Click_1" Style="{StaticResource PurpleStyle}" Background="#FF838383"/>
+        <Button x:Name="BookExtraButton" Content="Pre-Order Snacks" HorizontalAlignment="Left" Margin="414,421,0,0" VerticalAlignment="Top" Width="342" FontSize="22" Background="Black" Foreground="White" Height="47" Click="BookExtraButton_Click" Style="{StaticResource PurpleStyle}"/>
+        <Button x:Name="BookFilmButton" Content="Book a Film" HorizontalAlignment="Left" Margin="10,421,0,0" VerticalAlignment="Top" Width="342" FontSize="22" Background="Black" Foreground="White" Height="47" Click="BookFilmButton_Click" Style="{StaticResource PurpleStyle}"/>
+        <Label Content="Make a Booking" HorizontalAlignment="Left" Margin="210,28,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Rockwell Extra Bold" Height="58"/>
+        <TextBox BorderThickness="0" HorizontalAlignment="Left" Height="136" Margin="28,223,0,0" TextWrapping="Wrap" Text="Adult - £12.50&#xD;&#xA;Child - £6.00&#xA;Concession - £8.25 &#xD;&#xA;Student - £10.00 " VerticalAlignment="Top" Width="223" FontSize="24" Background="{x:Null}"/>
+        <Label Content="Prices" HorizontalAlignment="Left" Margin="28,165,0,0" VerticalAlignment="Top" FontSize="36" Width="176" FontWeight="Bold"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="28,28,0,0" VerticalAlignment="Top" Width="75" Height="58" Click="Button_Click_2" Style="{StaticResource PurpleStyle}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/Home White.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</UserControl>

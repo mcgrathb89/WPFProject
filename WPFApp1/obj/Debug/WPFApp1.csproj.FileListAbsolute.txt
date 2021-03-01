@@ -1,0 +1,303 @@
+H:\My Documents\Development\WPFApp1\WPFApp1\bin\Debug\WPFApp1.exe.config
+H:\My Documents\Development\WPFApp1\WPFApp1\bin\Debug\WPFApp1.exe
+H:\My Documents\Development\WPFApp1\WPFApp1\bin\Debug\WPFApp1.pdb
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.csprojResolveAssemblyReference.cache
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\PageSwitcher.g.cs
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\App.g.cs
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.cache
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.lref
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\PageSwitcher.baml
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.g.resources
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.Properties.Resources.resources
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.csproj.GenerateResource.Cache
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.csproj.CoreCompileInputs.cache
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.exe
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\WPFApp1.pdb
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\MainMenu.g.cs
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\MainMenu.baml
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\GamePlay.g.cs
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\GamePlay.baml
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\LoadGame.g.cs
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\LoadGame.baml
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\OptionsMenu.g.cs
+H:\My Documents\Development\WPFApp1\WPFApp1\obj\Debug\OptionsMenu.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csprojResolveAssemblyReference.cache
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\App.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.cache
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.lref
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.exe
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.pdb
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe.config
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.pdb
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.g.resources
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.Properties.Resources.resources
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.GenerateResource.Cache
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.CoreCompileInputs.cache
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\About.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\About.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.baml
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.g.cs
+C:\Users\mcgra_000\Downloads\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe.config
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.pdb
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\About.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\About.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\App.g.cs
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.cache
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.lref
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.baml
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.g.resources
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.Properties.Resources.resources
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.GenerateResource.Cache
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.CoreCompileInputs.cache
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.exe
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.pdb
+H:\My Documents\Development\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csprojResolveAssemblyReference.cache
+G:\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe.config
+G:\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe
+G:\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.pdb
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\About.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\About.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\CardPaymentLoadingScreen.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\App.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.cache
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.lref
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\CardPaymentLoadingScreen.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.g.resources
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.Properties.Resources.resources
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.GenerateResource.Cache
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.CoreCompileInputs.cache
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.exe
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.pdb
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csprojResolveAssemblyReference.cache
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeastOther.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeastOther.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2Other.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2Other.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\DunkirkOther.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5Other.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\DunkirkOther.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5Other.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\CashPaymentLoadingScreen.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\CashPaymentLoadingScreen.baml
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraCodeLoadingScreen.g.cs
+G:\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraCodeLoadingScreen.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe.config
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.exe
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\bin\Debug\WPFApp1.pdb
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csprojAssemblyReference.cache
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\About.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeastOther.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\DunkirkOther.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2Other.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5Other.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\About.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeastOther.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Booking.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraCodeLoadingScreen.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\CashPaymentLoadingScreen.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\CardPaymentLoadingScreen.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\CreateBooking.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\DunkirkOther.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Dunkirk.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraPurchase.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Extras.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraTicket.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Feedback.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseBooking.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\FinaliseCashPayment.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\FinishOrder.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2Other.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\JohnWick2.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\OrderFinishedCard.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PaymentType.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5Other.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PiratesoftheCaribbean5.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PrintCashTicket.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PrintTicket.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ReservedFilm.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Seats.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\Showings.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\MainMenu.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\BeautyandBeast.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ShowingTimes.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\TicketPrint.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\App.g.cs
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.cache
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.lref
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\ExtraCodeLoadingScreen.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\CashPaymentLoadingScreen.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\CardPaymentLoadingScreen.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\PageSwitcher.baml
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.g.resources
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.Properties.Resources.resources
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.GenerateResource.cache
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.exe
+C:\Users\Bobby\Desktop\Code Examples\Lumiplex Cinema\WPFApp1\obj\Debug\WPFApp1.pdb

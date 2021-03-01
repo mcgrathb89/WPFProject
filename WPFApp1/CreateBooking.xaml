@@ -1,0 +1,110 @@
+﻿<UserControl x:Class="WPFApp1.CreateBooking"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style x:Key="PurpleStyle" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border"  
+        BorderThickness="{TemplateBinding BorderThickness}"  
+        Padding="4,2"  
+        CornerRadius="5"  
+        BorderBrush="{TemplateBinding BorderBrush}" 
+        Background="{TemplateBinding Background}">
+                            <Grid >
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Name="content"/>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderBrush" Value="DarkGray"/>
+                                <Setter Property="BorderThickness" Value="4"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="White"/>
+                                <Setter Property="BorderBrush" Value="White"/>
+                                <Setter Property="BorderThickness" Value="10" />
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="{DynamicResource BlueGradient4}"/>
+                                <Setter Property="BorderBrush" Value="{DynamicResource BlueGradient1}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="SnapsToDevicePixels" Value="true"/>
+            <Setter Property="Background" Value="{DynamicResource BlueGradient1}"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource BlueGradient2}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="TextBox.TextAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Trebuchet MS"/>
+            <Setter Property="FontSize" Value="15pt"/>
+            <Setter Property="Effect" Value="{DynamicResource KioskStandardDropShadow}" />
+            <Setter Property="IsEnabled" Value="True"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="#FFB2B2B2" Offset="0.333"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <ListBox BorderThickness="0" HorizontalAlignment="Left" Height="142" Margin="22,115,0,0" VerticalAlignment="Top" Width="270" FontSize="22" Background="{x:Null}">
+            <ListBoxItem Content="Beauty and the Beast" Selected="ListBoxItem_Selected" Height="38"/>
+            <ListBoxItem Content="John Wick 2" Selected="ListBoxItem_Selected_1" Height="35"/>
+            <ListBoxItem Content="Dunkirk" Selected="ListBoxItem_Selected_2" Height="29"/>
+            <ListBoxItem Content="Pirates of the Caribbean 5" Selected="ListBoxItem_Selected_3" Height="36"/>
+        </ListBox>
+        <ListBox BorderThickness="0" HorizontalAlignment="Left" Height="186" Margin="299,115,0,0" VerticalAlignment="Top" Width="215" FontSize="22" Background="{x:Null}">
+            <ListBoxItem Content=" 9.00am" Selected="ListBoxItem_Selected_9" Width="198" />
+            <ListBoxItem Content=" 12.00pm" Selected="ListBoxItem_Selected_4" Width="200"/>
+            <ListBoxItem Content=" 3.00pm" Selected="ListBoxItem_Selected_5" Width="191"/>
+            <ListBoxItem Content=" 7.00pm" Selected="ListBoxItem_Selected_6" Width="188"/>
+            <ListBoxItem Content="  10.00pm" Selected="ListBoxItem_Selected_7" Width="205"/>
+        </ListBox>
+        <Label Content="Choose your Film:" HorizontalAlignment="Left" Margin="22,76,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Choose your Time:" HorizontalAlignment="Left" Margin="312,76,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <Button x:Name="NextOptionsButton" Content="Next" HorizontalAlignment="Left" Margin="557,492,0,0" VerticalAlignment="Top" Width="200" Height="40" FontFamily="Stencil Std" FontSize="20" RenderTransformOrigin="0.445,0.55" Click="NextOptionsButton_Click" Style="{StaticResource PurpleStyle}" Background="Black"/>
+        <Button x:Name="BackOptionsButton" Content="Back" HorizontalAlignment="Left" Margin="22,492,0,0" VerticalAlignment="Top" Width="200" Height="40" FontFamily="Stencil Std" FontSize="20" Click="BackOptionsButton_Click" Style="{StaticResource PurpleStyle}" Background="Black"/>
+        <Label Content="Choose Ticket Type:" HorizontalAlignment="Left" Margin="22,308,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <TextBox x:Name="TextBoxAdultTicket" BorderThickness="3" HorizontalAlignment="Left" Height="34" Margin="715,308,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="42"/>
+        <TextBox x:Name="TextBoxChildTicket" BorderThickness="3" HorizontalAlignment="Left" Height="33" Margin="715,347,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="42" RenderTransformOrigin="0.509,0.858"/>
+        <TextBox x:Name="TextBoxStudentTicket" BorderThickness="3" HorizontalAlignment="Left" Height="32" Margin="715,392,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="42" RenderTransformOrigin="0.509,1.064"/>
+        <TextBox x:Name="TextBoxConcessionTicket" BorderThickness="3" HorizontalAlignment="Left" Height="36" Margin="715,433,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="42"/>
+        <Label Content="Quantity:" HorizontalAlignment="Left" Margin="616,306,0,0" VerticalAlignment="Top" FontSize="18" Height="36"/>
+        <Label Content="Quantity:" HorizontalAlignment="Left" Margin="616,347,0,0" VerticalAlignment="Top" FontSize="18" Height="36" RenderTransformOrigin="0.532,0.728"/>
+        <Label Content="Quantity:" HorizontalAlignment="Left" Margin="616,388,0,0" VerticalAlignment="Top" FontSize="18" Height="36"/>
+        <Label Content="Quantity:" HorizontalAlignment="Left" Margin="616,433,0,0" VerticalAlignment="Top" FontSize="18" Height="36" RenderTransformOrigin="0.557,1.026"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top" Width="75" Height="61" Click="Button_Click" Style="{StaticResource PurpleStyle}">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/Home White.png"/> 
+            </Button.Background>
+        </Button>
+        <Label Content="Adult" HorizontalAlignment="Left" Margin="263,308,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.07,0.689" FontSize="22"/>
+        <Label Content="Child" HorizontalAlignment="Left" Margin="263,347,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.07,0.689" FontSize="22" Width="62"/>
+        <Label Content="Student" HorizontalAlignment="Left" Margin="263,391,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.07,0.689" FontSize="22"/>
+        <Label Content="Concession" HorizontalAlignment="Left" Margin="263,436,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.07,0.689" FontSize="22"/>
+        <Label Content="Choose a Day:" HorizontalAlignment="Left" Margin="598,76,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" Height="39" Width="159"/>
+        <ListBox BorderThickness="0" HorizontalAlignment="Left" Height="186" Margin="575,115,0,0" VerticalAlignment="Top" Width="215" FontSize="22" Background="{x:Null}">
+            <ListBoxItem Content="Monday" Width="175" Selected="ListBoxItem_Selected_8"/>
+            <ListBoxItem Content="Tuesday" Width="175" Selected="ListBoxItem_Selected_10"/>
+            <ListBoxItem Content="Wednesday" Width="178" Selected="ListBoxItem_Selected_11"/>
+            <ListBoxItem Content="Thursday" Width="178" Selected="ListBoxItem_Selected_12"/>
+            <ListBoxItem Content="Friday" Width="176" Selected="ListBoxItem_Selected_13" RenderTransformOrigin="0.271,0.351" />
+        </ListBox>
+    </Grid>
+</UserControl>
